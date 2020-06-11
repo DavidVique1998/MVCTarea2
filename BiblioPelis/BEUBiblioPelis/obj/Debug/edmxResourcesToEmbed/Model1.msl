@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="bilbliopelisbddModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="peliculas">
+      <EntityTypeMapping TypeName="bilbliopelisbddModel.pelicula">
+        <MappingFragment StoreEntitySet="pelicula">
+          <ScalarProperty Name="idpelicula" ColumnName="idpelicula" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="categoria" ColumnName="categoria" />
+          <ScalarProperty Name="fecha_lanz" ColumnName="fecha_lanz" />
+          <ScalarProperty Name="duracion_min" ColumnName="duracion_min" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

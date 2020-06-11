@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\MVCTarea2\BiblioPelis\BEUBiblioPelis\bin\Debug\BEUBiblioPelis.dll.config
+C:\Users\David\source\repos\MVCTarea2\BiblioPelis\BEUBiblioPelis\bin\Debug\BEUBiblioPelis.dll
+C:\Users\David\source\repos\MVCTarea2\BiblioPelis\BEUBiblioPelis\bin\Debug\BEUBiblioPelis.pdb
+C:\Users\David\source\repos\MVCTarea2\BiblioPelis\BEUBiblioPelis\bin\Debug\EntityFramework.dll
+C:\Users\David\source\repos\MVCTarea2\BiblioPelis\BEUBiblioPelis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\David\source\repos\MVCTarea2\BiblioPelis\BEUBiblioPelis\bin\Debug\EntityFramework.xml
+C:\Users\David\source\repos\MVCTarea2\BiblioPelis\BEUBiblioPelis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\David\source\repos\MVCTarea2\BiblioPelis\BEUBiblioPelis\obj\Debug\BEUBiblioPelis.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\MVCTarea2\BiblioPelis\BEUBiblioPelis\obj\Debug\BEUBiblioPelis.csproj.CopyComplete
+C:\Users\David\source\repos\MVCTarea2\BiblioPelis\BEUBiblioPelis\obj\Debug\BEUBiblioPelis.dll
+C:\Users\David\source\repos\MVCTarea2\BiblioPelis\BEUBiblioPelis\obj\Debug\BEUBiblioPelis.pdb
